@@ -56,8 +56,8 @@ Likes:        I like building things that actually get deployed, not
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3&custom_title=Haru%20%28%E3%83%8F%E3%83%AB%29%27s%20GitHub%20Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andkXD&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&langs_count=6"/>
+<img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3&custom_title=Haru%20%28%E3%83%8F%E3%83%AB%29%27s%20GitHub%20Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&langs_count=6"/>
 </p>
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
