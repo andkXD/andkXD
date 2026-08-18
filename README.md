@@ -3,6 +3,8 @@
 </div>
 
 <div align="center">
+  <img align="left" width="180" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
+  <img align="right" width="180" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
 </div>
 
