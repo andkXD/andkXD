@@ -10,12 +10,13 @@
   <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+<table width="100%" style="border: none;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="20%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle" style="border: none;">
   <img width="140" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
 </td>
-<td width="60%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle" style="border: none;">
   <p align="center">
    <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:arya.andhikaakbar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,11 +26,12 @@
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
 </td>
-<td width="20%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle" style="border: none;">
   <img width="140" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
 </td>
 </tr>
 </table>
+</div>
 
 
 
