@@ -21,7 +21,6 @@
 </p>
 
 
-<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
 
 
 <div align="center">
@@ -70,7 +69,6 @@ Likes: I like building things that actually get deployed, not just
 </table>
 
 
-<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
 
 
 <div align="center">
@@ -97,7 +95,6 @@ Likes: I like building things that actually get deployed, not just
 </table>
 
 
-<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
 
 
 
@@ -111,7 +108,6 @@ Likes: I like building things that actually get deployed, not just
 </p>
 
 
-<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
 
 
 <div align="center">
