@@ -10,7 +10,7 @@
   <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
 </div>
 
-<div align="center" style="margin-top:8px;">
+<div align="center">
   <img width="220" align="middle" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -20,7 +20,7 @@
   <img width="220" align="middle" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
 </div>
 
-<div align="center" style="margin-top:4px;">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img width="1500" height="180" alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" style="object-fit: cover; width:100%; max-height:180px;"/>
+  <img alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" width="100%"/>
 </div>
 
 <table>
@@ -37,7 +37,7 @@
 
 <td width="40%" align="center">
 
-<img width="100%" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/262f4516-22a6-4e06-af56-43a2689d2c92" style="object-fit: cover;" />
+<img width="100%" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/262f4516-22a6-4e06-af56-43a2689d2c92" />
 
 </td>
 
@@ -105,7 +105,7 @@ Likes: I like building things that actually get deployed, not just
 </div>
 
 <div align="center">
-  <img width="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" style="border-radius: 12px; border: 1px solid #333; max-height:220px; object-fit:cover;" />
+  <img width="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" style="border-radius: 12px; border: 1px solid #333;" />
 </div>
 
 <div align="center">
