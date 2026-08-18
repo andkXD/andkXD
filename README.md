@@ -70,6 +70,29 @@ Likes: I like building things that actually get deployed, not just
 
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Some+of+my+Projects" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <sub><i>Click on the card to visit the repository.</i></sub>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/andkXD/LOMBA-MSU-IREX">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=LOMBA-MSU-IREX&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
+  </a>
+</td>
+</tr>
+</table>
+
+
+<p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
+
+
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
 </div>
 
