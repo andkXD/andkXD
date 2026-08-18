@@ -43,6 +43,7 @@
 ```csharp
 
 ------------------------------------------------------------------------
+
 Name: andk (Arya Satya Andhika Akbar)
 WhoamI: Semester 4 Information Systems student at Universitas Airlangga
         (FST). I move across backend, ML, and network engineering
@@ -59,6 +60,8 @@ Likes: I like building things that actually get deployed, not just
        demoed. I'm slowly picking up Japanese on the side,
        and I'll take on a full stack + ML + infra project alone if
        I have to.
+
+------------------------------------------------------------------------
 ```
 
 </td>
