@@ -28,22 +28,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img width="1500" height="350" alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" width="100%"/>
+</div>
+
 
 <table>
 <tr>
 
 <td width="40%" align="center">
 
-<img width="400" height="500" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/262f4516-22a6-4e06-af56-43a2689d2c92" />
+<img width="100%" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/262f4516-22a6-4e06-af56-43a2689d2c92" style="object-fit: cover;" />
 
 </td>
 
 <td width="60%" valign="top">
 
 ```csharp
-
 ------------------------------------------------------------------------
-
 Name: andk (Arya Satya Andhika Akbar)
 WhoamI: Semester 4 Information Systems student at Universitas Airlangga
         (FST). I move across backend, ML, and network engineering
@@ -60,7 +62,6 @@ Likes: I like building things that actually get deployed, not just
        demoed. I'm slowly picking up Japanese on the side,
        and I'll take on a full stack + ML + infra project alone if
        I have to.
-
 ------------------------------------------------------------------------
 ```
 
