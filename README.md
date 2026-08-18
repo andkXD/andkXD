@@ -84,6 +84,11 @@ Likes: I like building things that actually get deployed, not just
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=LOMBA-MSU-IREX&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
   </a>
 </td>
+<td width="50%">
+  <a href="https://github.com/andkXD/LOMBA-I2ASPO">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=LOMBA-I2ASPO&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
+  </a>
+</td>
 </tr>
 </table>
 
