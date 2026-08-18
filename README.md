@@ -115,5 +115,9 @@ Likes: I like building things that actually get deployed, not just
 </div>
 
 <div align="center">
+  <img width="480" height="270" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 </div>
