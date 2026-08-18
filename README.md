@@ -11,13 +11,13 @@ Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views"/>
 </p>
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
@@ -56,8 +56,8 @@ Likes:        I like building things that actually get deployed, not
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3"/>
 </p>
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
