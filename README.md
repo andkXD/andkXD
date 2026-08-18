@@ -41,7 +41,7 @@
 <td width="60%" valign="top">
 
 ```csharp
-Profile ver. 2.0
+
 ------------------------------------------------------------------------
 Name: andk (Arya Satya Andhika Akbar)
 WhoamI: Semester 4 Information Systems student at Universitas Airlangga
