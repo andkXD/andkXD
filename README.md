@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=90&section=header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Hello!;I+am+andk" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<div align="center">
   <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top:8px;">
   <img width="220" align="middle" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -18,23 +18,19 @@
   <a href="https://www.instagram.com/andhi.ndk/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;
   <img width="220" align="middle" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top:4px;">
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img width="1500" height="350" alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=22&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=50&lines=About+Me" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img width="1500" height="180" alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" style="object-fit: cover; width:100%; max-height:180px;"/>
+</div>
 
 <table>
 <tr>
@@ -72,16 +68,13 @@ Likes: I like building things that actually get deployed, not just
 </tr>
 </table>
 
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Some+of+my+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=22&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=50&lines=Some+of+my+Projects" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<div align="center">
   <sub><i>Click on the card to visit the repository.</i></sub>
-</p>
+</div>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -98,30 +91,23 @@ Likes: I like building things that actually get deployed, not just
 </tr>
 </table>
 
-
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
-</p>
-
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=60&lines=Thankyou+For+Visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=22&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=50&lines=Development+Statistics" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img width="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" style="border-radius: 12px; border: 1px solid #333;" />
+  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=18&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=40&lines=Thankyou+For+Visiting!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" style="border-radius: 12px; border: 1px solid #333; max-height:220px; object-fit:cover;" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=90&section=footer"/>
 </div>
