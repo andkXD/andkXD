@@ -105,16 +105,10 @@ Likes: I like building things that actually get deployed, not just
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="180"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="180"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
+</p>
 
 
 <p align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</p>
