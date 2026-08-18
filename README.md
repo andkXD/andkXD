@@ -3,24 +3,24 @@
 </div>
 
 <div align="center">
+  <img align="left" width="200" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
+  <img align="right" width="200" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
+
+  <p align="center">
+    <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:arya.andhikaakbar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/andhi.ndk/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </p>
 </div>
-
-<p align="center">
-  <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
-</p>
-
-<p align="center">
-  <img width="220" align="middle" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:arya.andhikaakbar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/andhi.ndk/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="220" align="middle" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
