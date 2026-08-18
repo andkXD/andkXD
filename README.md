@@ -119,7 +119,7 @@ Likes: I like building things that actually get deployed, not just
 </div>
 
 <div align="center">
-  <img width="480" height="270" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" />
+  <img width="60%" alt="wallpaper" src="https://github.com/user-attachments/assets/76e18f8f-a1a2-4e37-81f6-fdcb13b3acb6" style="border-radius: 12px; border: 1px solid #333;" />
 </div>
 
 <div align="center">
