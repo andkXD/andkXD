@@ -34,7 +34,7 @@
 
 <td width="40%" align="center">
 
-<img src="YOUR_PHOTO_URL" width="400"/>
+<img width="400" height="500" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/262f4516-22a6-4e06-af56-43a2689d2c92" />
 
 </td>
 
