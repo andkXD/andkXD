@@ -10,28 +10,19 @@
   <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
 </p>
 
-<div align="center">
-<table width="100%" style="border: none;" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="20%" align="center" valign="middle" style="border: none;">
-  <img width="140" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
-</td>
-<td width="60%" align="center" valign="middle" style="border: none;">
-  <p align="center">
-   <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img width="220" align="middle" alt="Discord Hello Sticker by kaomoji" src="https://github.com/user-attachments/assets/82ce5ed2-a899-40e3-8000-959dd373cf58" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/andkXD"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:arya.andhikaakbar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/andhi.ndk/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  </p>
-  <p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <img width="220" align="middle" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
-  </p>
-</td>
-<td width="20%" align="center" valign="middle" style="border: none;">
-  <img width="140" alt="Discord Waving Sticker by kaomoji" src="https://github.com/user-attachments/assets/b272005e-338b-4451-9a6c-fcee6c87076d" />
-</td>
-</tr>
-</table>
-</div>
+</p>
 
 
 
