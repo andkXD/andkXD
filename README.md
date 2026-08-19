@@ -103,7 +103,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 </div>
 
 <div align="center">
-  <img width="99%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
+  <img width="100%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
 </div>
 
 <p align="center">
@@ -123,6 +123,14 @@ Likes: I like building things that actually get deployed, not just demoed.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andkXD&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkXD&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" width="90%"/>
 </p>
 
 
