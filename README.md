@@ -124,7 +124,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 </p>
 
 <div align="center">
-  <img width="100%" alt="Isometric Contribution Graph" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=andkXD&theme=dark&stats=true" />
+  <img width="100%" alt="Isometric Contribution Graph" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=andkXD&theme=minimal&stats=true" />
 </div>
 
 
