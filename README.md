@@ -78,12 +78,12 @@ Likes: I like building things that actually get deployed, not just
 <tr>
 <td width="50%">
   <a href="https://github.com/andkXD/INTERNATIONAL-COMPETITION-MSU-IREX-2026">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=INTERNATIONAL-COMPETITION-MSU-IREX-2026&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=INTERNATIONAL-COMPETITION-MSU-IREX-2026&custom_title=MSU%20iREX%202026&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/andkXD/INTERNATIONAL-COMPETITION-I2ASPO-2024">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=INTERNATIONAL-COMPETITION-I2ASPO-2024&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=INTERNATIONAL-COMPETITION-I2ASPO-2024&custom_title=I2ASPO%202024&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
   </a>
 </td>
 </tr>
