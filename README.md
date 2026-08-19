@@ -78,10 +78,16 @@ Likes: I like building things that actually get deployed, not just
 <tr>
 <td width="50%">
   <a href="https://github.com/andkXD/MSU-IREX-2026">
+    <img src="https://github.com/user-attachments/assets/ec781eff-a4c6-4e90-a600-56449d968c77" width="100%"/>
+  </a>
+  <a href="https://github.com/andkXD/MSU-IREX-2026">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=MSU-IREX-2026&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
   </a>
 </td>
 <td width="50%">
+  <a href="https://github.com/andkXD/I2ASPO-2024">
+    <img src="https://github.com/user-attachments/assets/428b084c-d22b-406e-b53c-00400bcf1c5d" width="100%"/>
+  </a>
   <a href="https://github.com/andkXD/I2ASPO-2024">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=andkXD&repo=I2ASPO-2024&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff" width="100%"/>
   </a>
