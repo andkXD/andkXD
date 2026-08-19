@@ -124,12 +124,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 </p>
 
 <div align="center">
-  <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andkXD/andkXD/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andkXD/andkXD/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andkXD/andkXD/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 
