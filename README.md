@@ -106,6 +106,25 @@ Likes: I like building things that actually get deployed, not just demoed.
   <img width="100%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
 </div>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+  <img width="100%" alt="1" src="https://github.com/user-attachments/assets/f6a67691-1ba3-4a52-a870-53f3e5c353c8" />
+</td>
+<td width="50%">
+  <img width="100%" alt="2" src="https://github.com/user-attachments/assets/5f07a64f-6b4c-430c-8d43-5bd559b08f31" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img width="100%" alt="3" src="https://github.com/user-attachments/assets/28be8f84-6b5a-4d3a-b17b-83a283be0e1e" />
+</td>
+<td width="50%">
+  <img width="100%" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
+</td>
+</tr>
+</table>
+
 
 
 
