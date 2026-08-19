@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+About+Me+%E2%97%82" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Some+of+my+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+Some+of+my+Projects+%E2%97%82" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -99,7 +99,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=I'm+also+an+artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+I'm+also+an+artist+%E2%97%82" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+Development+Statistics+%E2%97%82" alt="Typing SVG" />
 </div>
 
 <p align="center">
