@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=header"/>
   <img width="100%" alt="Art is a form" src="https://github.com/user-attachments/assets/b9be6176-f356-4755-a08e-1a05373faa87" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
 
   <p align="center">
     <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
