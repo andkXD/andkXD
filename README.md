@@ -103,7 +103,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 </div>
 
 <div align="center">
-  <img width="100%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
+  <img width="99%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
 </div>
 
 <p align="center">
