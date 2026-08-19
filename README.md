@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=header"/>
   <img width="100%" alt="Art is a form" src="https://github.com/user-attachments/assets/b9be6176-f356-4755-a08e-1a05373faa87" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hello!;I+am+andk" alt="Typing SVG" />
 
   <p align="center">
     <sub>Student · Backend &amp; ML Developer · Systems Analyst · Sistem Informasi</sub>
@@ -19,11 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=30&section=header"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=70&lines=About+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=About+Me" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -66,12 +62,11 @@ Likes: I like building things that actually get deployed, not just demoed.
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=30&section=header"/>
-</div>
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=70&lines=Some+of+my+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Some+of+my+Projects" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -99,12 +94,12 @@ Likes: I like building things that actually get deployed, not just demoed.
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=30&section=header"/>
-</div>
+
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=70&lines=I'm+also+an+artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=I'm+also+an+artist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -118,12 +113,11 @@ Likes: I like building things that actually get deployed, not just demoed.
   <img width="49%" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=30&section=header"/>
-</div>
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=70&lines=Development+Statistics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -131,8 +125,11 @@ Likes: I like building things that actually get deployed, not just demoed.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
 </p>
 
+
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=60&lines=Thankyou+For+Visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=60&lines=Thankyou+For+Visiting!" alt="Typing SVG" />
 </div>
 
 <div align="center">
