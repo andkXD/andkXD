@@ -99,6 +99,17 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=I'm+also+an+artist" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="650" height="366" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" width="100%"/>
+</div>
+
+
+
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Development+Statistics" alt="Typing SVG" />
 </div>
 
