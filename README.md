@@ -124,7 +124,12 @@ Likes: I like building things that actually get deployed, not just demoed.
 </p>
 
 <div align="center">
-  <img width="100%" alt="Isometric Contribution Graph" src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=andkXD&theme=minimal&stats=true" />
+  <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andkXD/andkXD/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andkXD/andkXD/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 </div>
 
 
