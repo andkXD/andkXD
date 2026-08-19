@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img width="1500" height="350" alt="Art is a form" src="https://github.com/user-attachments/assets/64ff3ef4-4bab-48df-b0b2-d013ee386c32" width="100%"/>
+  <img width="1500" height="350" alt="Art is a form" src="https://github.com/user-attachments/assets/ea06e79b-a9aa-425a-b1aa-35527c0321b7" width="100%"/>
 </div>
 
 
