@@ -126,7 +126,7 @@ Likes: I like building things that actually get deployed, not just demoed.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andkXD&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=andkXD&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
 </p>
 
 <p align="center">
