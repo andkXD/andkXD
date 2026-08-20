@@ -73,6 +73,17 @@ Likes: I  like  building  things  that  actually  get  deployed,  not just
 
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+Tech+Stack+%E2%97%82" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,php,dart,js,cpp,c,fastapi,laravel,flutter,docker,azure,git,mysql&theme=dark" />
+</p>
+
+
+
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+Some+of+my+Projects+%E2%97%82" alt="Typing SVG" />
 </div>
 
