@@ -151,7 +151,7 @@ Likes: I  like  building  things  that  actually  get  deployed,  not just
 </table>
 
 <p align="center">
-  <sub><i>← scroll untuk lihat lebih banyak →</i></sub>
+  <sub><i>← scroll to see more →</i></sub>
 </p>
 
 
