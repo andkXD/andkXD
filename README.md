@@ -47,20 +47,21 @@
 ```csharp
 ------------------------------------------------------------------------
 Name: andk (Arya Satya Andhika Akbar)
-WhoamI: I  am  a  Semester  4  Information  Systems student at Universitas
-        Airlangga   (FST).   I   move  across  backend,  ML,  and  network
-        engineering  depending on what the project needs. Recently led the
-        backend/neuromorphic  core for a competition robot and walked away
-        with a Gold Medal.
+WhoamI: I  am  an  Information  Systems  student  at  Universitas  Airlangga
+        (UNAIR).   I   move   across   backend,   ML,   and   network
+        engineering  depending  on  what  the  project  needs.  Built  MSU
+        iREX  2026  and  I2ASPO,  an  international  competition,  and led
+        the  backend/neuromorphic  core  for  a  competition  robot  that
+        walked away with a Gold Medal.
 OS: Windows + WSL2
 CurrentGrind: Backend systems, applied ML, enterprise architecture
-SideQuests: Competitive  tech  (MSU  iReX 2026, Shah Alam), Azure deploys,
-            embedded/IoT tinkering
+SideQuests: Currently  competing  in  hackathons,  alongside  Azure deploys
+            and embedded/IoT tinkering
 Languages: Python, PHP, Dart, JavaScript, C/C++
 Tools: FastAPI, Laravel, Flutter, Docker, Azure, MQTT, InfluxDB
-Likes: I like building things that actually get deployed, not just demoed.
-       I'm slowly picking up Japanese on the side, and I'll take on a full
-       stack + ML + infra project alone if I have to.
+Likes: I  like  building  things  that  actually  get  deployed,  not just
+       demoed.  I'm  also  an  artist  on  the  side,  and  I'll take on a
+       full stack + ML + infra project alone if I have to.
 ------------------------------------------------------------------------
 ```
 
