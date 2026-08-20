@@ -133,21 +133,21 @@ Likes: I  like  building  things  that  actually  get  deployed,  not just
   <img width="98%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
 </div>
 
-<table>
+<table width="1100">
 <tr>
-<td align="center">
+<td width="220" align="center">
   <img width="220" alt="1" src="https://github.com/user-attachments/assets/f6a67691-1ba3-4a52-a870-53f3e5c353c8" />
 </td>
-<td align="center">
+<td width="220" align="center">
   <img width="220" alt="2" src="https://github.com/user-attachments/assets/5f07a64f-6b4c-430c-8d43-5bd559b08f31" />
 </td>
-<td align="center">
+<td width="220" align="center">
   <img width="220" alt="3" src="https://github.com/user-attachments/assets/28be8f84-6b5a-4d3a-b17b-83a283be0e1e" />
 </td>
-<td align="center">
+<td width="220" align="center">
   <img width="220" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
 </td>
-<td align="center">
+<td width="220" align="center">
   <img width="220" alt="5" src="https://github.com/user-attachments/assets/6fa8f8f6-0aa1-4b58-9de5-4a81f7bb1f83" />
 </td>
 </tr>
