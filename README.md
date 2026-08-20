@@ -14,6 +14,12 @@
   </p>
 
   <p align="center">
+    <a href="https://github.com/andkXD/andkXD/blob/main/assets/CV.pdf">
+      <img src="https://img.shields.io/badge/-Download%20CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
 
