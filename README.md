@@ -119,7 +119,7 @@ Likes: I  like  building  things  that  actually  get  deployed,  not just
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=andkXD&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=andkXD&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="90%"/>
 </p>
 
 <p align="center">
