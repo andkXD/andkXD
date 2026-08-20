@@ -62,10 +62,6 @@ Tools: FastAPI, Laravel, Flutter, Docker, Azure, MQTT, InfluxDB
 Likes: I  like  building  things  that  actually  get  deployed,  not just
        demoed.  I'm  also  an  artist  on  the  side,  and  I'll take on a
        full stack + ML + infra project alone if I have to.
-                                                             ♡  ╱|、
-                                                                (˚ˎ 。7  
-                                                                 |、˜〵          
-                                                                じしˍ,)ノ
 ------------------------------------------------------------------------
 ```
 
