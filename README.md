@@ -114,8 +114,8 @@ Likes: I  like  building  things  that  actually  get  deployed,  not just
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=andkXD&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=b3b3b3" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andkXD&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b3b3b3" width="49%"/>
 </p>
 
 <p align="center">
