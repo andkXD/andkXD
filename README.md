@@ -99,24 +99,6 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+I'm+also+an+artist+%E2%97%82" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img width="100%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
-</div>
-
-<p align="center">
-  <img width="49%" alt="1" src="https://github.com/user-attachments/assets/f6a67691-1ba3-4a52-a870-53f3e5c353c8" />
-  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/5f07a64f-6b4c-430c-8d43-5bd559b08f31" />
-  <img width="49%" alt="3" src="https://github.com/user-attachments/assets/28be8f84-6b5a-4d3a-b17b-83a283be0e1e" />
-  <img width="49%" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
-</p>
-
-
-
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+Development+Statistics+%E2%97%82" alt="Typing SVG" />
 </div>
 
@@ -131,6 +113,24 @@ Likes: I like building things that actually get deployed, not just demoed.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkXD&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" width="90%"/>
+</p>
+
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+I'm+also+an+artist+%E2%97%82" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="portofolio" src="https://github.com/user-attachments/assets/a62479b7-5e3e-4e19-8364-0873de928609" />
+</div>
+
+<p align="center">
+  <img width="49%" alt="1" src="https://github.com/user-attachments/assets/f6a67691-1ba3-4a52-a870-53f3e5c353c8" />
+  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/5f07a64f-6b4c-430c-8d43-5bd559b08f31" />
+  <img width="49%" alt="3" src="https://github.com/user-attachments/assets/28be8f84-6b5a-4d3a-b17b-83a283be0e1e" />
+  <img width="49%" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
 </p>
 
 
