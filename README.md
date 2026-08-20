@@ -16,8 +16,14 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
+
+  <p align="center">
+    <a href="https://open.spotify.com/user/31yivdntsj77gb65ebbje3prdjfq">
+      <img src="https://andk-spotify-widget.vercel.app/api/view?uid=31yivdntsj77gb65ebbje3prdjfq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false" />
+    </a>
+  </p>
 </div>
-a
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+About+Me+%E2%97%82" alt="Typing SVG" />
 </div>
