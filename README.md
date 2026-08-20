@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=andkXD&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
   </p>
 </div>
-
+a
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=%E2%96%B8+About+Me+%E2%97%82" alt="Typing SVG" />
 </div>
@@ -139,12 +139,6 @@ Likes: I like building things that actually get deployed, not just demoed.
 </td>
 <td align="center">
   <img width="260" alt="4" src="https://github.com/user-attachments/assets/0fdfd488-01c7-46de-a836-8d41074683b2" />
-</td>
-<td align="center">
-  <img width="260" alt="dummy 5" src="https://dummyimage.com/260x300/1a1a1a/ffffff.png&text=Dummy+5" />
-</td>
-<td align="center">
-  <img width="260" alt="dummy 6" src="https://dummyimage.com/260x300/1a1a1a/ffffff.png&text=Dummy+6" />
 </td>
 </tr>
 </table>
