@@ -25,7 +25,7 @@
 
   <p align="center">
     <a href="https://open.spotify.com/user/31yivdntsj77gb65ebbje3prdjfq">
-      <img width="100%" src="https://andk-spotify-widget.vercel.app/api/view?uid=31yivdntsj77gb65ebbje3prdjfq&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false" />
+      <img width="50%" src="https://andk-spotify-widget.vercel.app/api/view?uid=31yivdntsj77gb65ebbje3prdjfq&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false" />
     </a>
   </p>
 </div>
