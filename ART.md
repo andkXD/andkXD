@@ -2,13 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=header"/>
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=32&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=Art+Gallery" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <a href="https://github.com/andkXD/andkXD"><b>← back to profile</b></a>
 </p>
-
 <br/>
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/726501ff-c3c4-41cd-8d0f-2f28454cee13" width="100%" controls></video>
+</div>
+<br/>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center">
@@ -27,9 +28,7 @@
 </td>
 </tr>
 </table>
-
 <br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=footer"/>
 </div>
